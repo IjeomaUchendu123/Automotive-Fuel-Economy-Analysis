@@ -1,5 +1,17 @@
 # Automotive-Fuel-Economy-Analysis
 
+## TABLE OF CONTENTS
+
+ - [PROJECT OVERVIEW](#project-overview)
+ - [DATA SOURCES](#data-sources)
+ - [TOOLS](#tools)
+ - [DATA CLEANING/PREPARATION](#data-cleaning-/-preparation)
+ - [EXPLORATOTY DATA ANALYSIS](#exploratory-data-analysis)
+ - [DATA ANALYSIS](#data-analysis)
+ - [RESULTS/FINDINGS](#results-/-findings)
+ - [RECOMMENDATIONS](#recommendations)
+ - [LIMITATIONS](#limitations)
+
 ## PROJECT OVERVIEW
 
 An Automotive fuel economy analysis gaining insights into relationships between cars and their mpg's, horsepower, weight, car cylinders and origin.
@@ -39,13 +51,18 @@ QUARTILE(E2:E399,3)
 The Findings from the analysis are summarised as follows;
 1. The top car rating by horsepower is the Buick Electra 225 Custom.
 2. The relationship between the weight of the cars and the Mpg is a positive relationship. The higher the weight of the cars, the higher the Mpg.
-3. Cylinder 6 has the highest distribution with Cylinder 36 being the least.
+3. Cars with 4 cylinders has the highest distribution while cars with 5 cylinders has the least.
 4. The most number of cars were produced in model year 73.
-5. Origin number 1 has the highest number of cars produced.
+5. 63% of the cars are of origin 1 which is the highest .
 6. The bottom 3 cars by Mpg are chevy c20, ford f250, hi1200d.
 
 ### RECOMMENDATIONS
-Based on the analysis, the following actions are recommended 
+Based on the analysis, the following actions are recommended;
+1. Focus on the production of cars with 4 cylinders to cater to market demand.
+2. Improve fuel efficiency in cars with more weight.
+3. Increase production in model years with high demand such as model year 73.
+4. Target regions with high demand for origin 1 cars since it has 63% of the market shares.
+5. Encourage consumers to opt for lighter cars so as to improve their fuel efficiency.
 
 
 ### LIMITATIONS
