@@ -5,16 +5,21 @@
  - [PROJECT OVERVIEW](#project-overview)
  - [DATA SOURCES](#data-sources)
  - [TOOLS](#tools)
- - [DATA CLEANING/PREPARATION](#data-cleaning-/-preparation)
- - [EXPLORATOTY DATA ANALYSIS](#exploratory-data-analysis)
+ - [DATA CLEANING](#data-cleaning)
+ - [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
  - [DATA ANALYSIS](#data-analysis)
- - [RESULTS/FINDINGS](#results-/-findings)
+ - [FINDINGS](#findings)
  - [RECOMMENDATIONS](#recommendations)
  - [LIMITATIONS](#limitations)
 
 ## PROJECT OVERVIEW
 
 An Automotive fuel economy analysis gaining insights into relationships between cars and their mpg's, horsepower, weight, car cylinders and origin.
+
+![Dashboard](Fuel Economy Visualization.PNG)
+
+<img width="763" alt="Fuel Economy Visualization" src="https://github.com/user-attachments/assets/ace00639-b624-47a4-86ca-8a8db24ba645">
+
 
 ### DATA SOURCES
 
@@ -23,7 +28,7 @@ The Primary dataset used for this analysis is the "Fuel_Economy_Dataset.csv" fil
 ### TOOLS
 - Excel - Data Cleaning and Visualization [Download_here](https://microsoft.com)
 
-### DATA CLEANING/PREPARATION
+### DATA CLEANING
 
 In the data preparation phase we performed the folowing task
 1. Data Inspection
@@ -46,7 +51,7 @@ This involved exploring the data to answer key questions such as;
 QUARTILE(E2:E399,1)
 QUARTILE(E2:E399,3)
 ```
-### RESULTS/FINDINGS
+### FINDINGS
 
 The Findings from the analysis are summarised as follows;
 1. The top car rating by horsepower is the Buick Electra 225 Custom.
