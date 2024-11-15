@@ -16,9 +16,9 @@
 
 An Automotive fuel economy analysis gaining insights into relationships between cars and their mpg's, horsepower, weight, car cylinders and origin.
 
-![Dashboard](Fuel Economy Visualization.PNG)
 
-<img width="763" alt="Fuel Economy Visualization" src="https://github.com/user-attachments/assets/ace00639-b624-47a4-86ca-8a8db24ba645">
+
+<img src="https://github.com/user-attachments/assets/663e1501-5574-4e05-b7bb-93fb550f2890 "alt="Fuel Economy Visualization">
 
 
 ### DATA SOURCES
