@@ -14,11 +14,7 @@
 
 ## PROJECT OVERVIEW
 
-An Automotive fuel economy analysis gaining insights into relationships between cars and their mpg's, horsepower, weight, car cylinders and origin.
-
-![Dashboard](Fuel Economy Visualization.PNG)
-
-<img src="https://github.com/user-attachments/assets/c1fb399c-9782-44eb-b7bc-ca278fd82800" alt="Fuel Economy Visualization">
+An Automotive fuel economy analysis gaining insights into relationships between cars and their mpg's, horsepower, weight, car cylinders and origin.(Dataset and Visualization attached).
 
 
 ### DATA SOURCES
